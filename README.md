@@ -1,5 +1,5 @@
 ## SymplecticNetwork
-Research @ NYU CDS
+Research @ NYU Center for Data Science
 
 Symplectic integration using neural network. Project under active development. See details in the report file.
 
